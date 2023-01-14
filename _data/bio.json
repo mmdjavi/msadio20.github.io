@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Ma Donna Jouliene Sadio",
-    "label": "Student",
+    "label": "Shidler Undergraduate Student",
     "picture": "https://github.com/msadio20.png",
     "email": "msadio20@hawaii.edu",
     "phone": "808-497-3617",
     "website": "https://msadio20.github.io",
-    "summary": "I am an undergraduate student of Shidler College of Business in the University of Hawaii at Manoa. I am pursuing a B.B.A. in Management Information Systems. I expect to graduate in Spring, 2024.",
+    "summary": "I am an undergraduate student at Shidler College of Business at the University of Hawai'i at Mānoa. I am pursuing a B.B.A. in Management Information Systems. I expect to graduate in the Spring of 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "linkedin", "username": " ", "url": " " },
